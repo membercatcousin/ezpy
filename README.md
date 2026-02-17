@@ -1,4 +1,4 @@
-# ![logo](https://github.com/user-attachments/assets/4c463685-66a3-4fff-a2ae-91a77906f6a3)
+# ![logo](https://github.com/user-attachments/assets/0e932703-531e-4f4b-ae04-f8f053276722)
 
 A python library made for ease of development
 
