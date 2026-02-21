@@ -9,7 +9,7 @@ A python library made for ease of development
 ## Planned Features
 
 - ### 1-Line reader:
-  - Eazy 1-Line file reader. No more importing 4 libraries just to read a config file.
+  - Eazy 1-Line file reader. No more writing 10 lines of code just to read a txt file.
  
 - ### System specs grabber:
   - No more importing 6-7 libraries just to get the specifications of said system has.
